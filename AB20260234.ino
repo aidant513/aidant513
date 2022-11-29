@@ -1,4 +1,5 @@
-// This blank Starter has all of the basics covered so you can focus on your code
+// Project to read pressure and temperature data using arduino ItsyBitsy and BMP280 sensor
+
 #include "globals.h" 
 #include <Adafruit_BMP280.h>
 
